@@ -2,3 +2,4 @@
 1. Rock vs Mine Prediction
 2. Diabetes Prediction
 3. Spam Mail Prediction
+4. Heart Disease Prediction
