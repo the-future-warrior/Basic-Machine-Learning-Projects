@@ -4,3 +4,4 @@
 3. Spam Mail Prediction
 4. Heart Disease Prediction
 5. Loan Approval Prediction
+6. Big Mart Sales Prediction
